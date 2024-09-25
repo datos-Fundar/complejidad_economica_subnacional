@@ -52,7 +52,7 @@ Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (202
     - [Mendoza](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_Mendoza.csv)
     - [Misiones](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_Misiones.csv)
     - [Neuquén](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_Neuquén.csv)
-    - [Río Negro](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_Río Negro.csv)
+    - [Río Negro](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_Río%20Negro.csv)
     - [Salta](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_Salta.csv)
     - [San Juan](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_San%20Juan.csv)
     - [San Luis](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_San%20Luis.csv)

@@ -64,6 +64,10 @@ Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (202
     
 - [Datos Socioeconómicos](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datos_socioeconomicos.csv)
 
+## Otros trabajos relacionados
+
+Este trabajo se enmarca en la serie de [Complejidad Económica](https://fund.ar/serie/complejidad-economica/), una línea de investigación y aplicación llevada a cabo por las áreas de Datos y Política Productiva de Fundar. Esta serie reúne, por un lado, un conjunto de trabajos de aplicación regional en la ciudad y la provincia de Córdoba que analizan las potencialidades productivas de estos dos distritos. Reúne además un estudio nacional que se apoya en evidencia cuantitativa para determinar en qué áreas Argentina tiene potencial competitivo verde. Los cálculos de este último trabajo se encuentran disponibles [acá](https://github.com/datos-Fundar/complejidad-economica). Por último, se suma también una guía práctica para analizar la complejidad económica de una provincia utilizando datos de empleo, con su [repositorio](https://github.com/datos-Fundar/complejidad_economica_empleo) también disponible.
+
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>

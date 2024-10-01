@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: >-
+  Radiografía de la Complejidad Económica subnacional en Argentina
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - name: Fundar
+    website: 'https://fund.ar/'
+    country: AR
+    city: Buenos Aires
+  - given-names: Marcos
+    family-names: Feole
+    email: 
+  - given-names: Matías
+    family-names: Gutman
+    email: mgutman@fund.ar
+  - given-names: Paula
+    family-names: Luvini
+    email: pluvini@fund.ar
+  - given-names: Lucía
+    family-names: Pezzarini
+    email: 
+  - given-names: Nicolás
+    family-names: Sidicaro
+    email: nsidicaro@fund.ar
+  - given-names: Gabriel
+    family-names: Scattolo
+    email: 
+repository-code: >-
+  https://github.com/datos-Fundar/complejidad_economica_subnacional
+abstract: >-
+  Este repositorio contiene las bases de datos utilizadas para el armado de la Radiografía de la Complejidad Económica subnacional.
+license: CC-BY-NC-ND-4.0
+version: '1.0'
+date-released: '2024-10-22'

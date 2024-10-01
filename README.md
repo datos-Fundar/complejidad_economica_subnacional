@@ -4,7 +4,7 @@
 
 En este repositorio se comparten los datos que se han utilizado para el **Radiografía de la Complejidad Económica subnacional en Argentina** [^1].Contiene las bases de datos que se han utilizado para la construcción de las fichas provinciales de Complejidad Económica. 
 
-Las bases presentan indicadores de Complejidad Económica de elaboración propia a partir de datos de la Dirección Nacional de Estudios para la Producción (CEP XXI) y Comtrade. Además, se utilizaron otras fuentes de datos para complementar a estos indicadores, aportando datos socioeconómicos provinciales como información poblacional, económica, de empleo y educativa. Las fuentes de estos datos son el Instituto Nacional de Estadísticas y Censos (INDEC), el Ministerio de Economía de la Nación, el Observatorio de Empleo y Dinámica Empresarial (OEDE) y el Ministerio de Educación.
+Las bases presentan indicadores de Complejidad Económica de elaboración propia a partir de datos de la Dirección Nacional de Estudios para la Producción [(CEP XXI)](https://www.argentina.gob.ar/produccion/cep) y [Comtrade](https://comtradeplus.un.org/), a los cuales se accedió a través de una consulta de información pública. Además, se utilizaron otras fuentes de datos para complementar a estos indicadores, aportando datos socioeconómicos provinciales como información poblacional, económica, de empleo y educativa. Las fuentes de estos datos son el [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/), el [Ministerio de Economía de la Nación](https://www.argentina.gob.ar/economia), el [Observatorio de Empleo y Dinámica Empresarial (OEDE)](https://www.argentina.gob.ar/trabajo/estadisticas/observatorio-de-empleo-y-dinamica-empresarial-oede-0) y el [Ministerio de Educación](https://www.argentina.gob.ar/capital-humano/educacion) -actualmente Ministerio de Capital Humano-.
 
 [^1]: [Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G. (2024) Radiografía de la Complejidad Económica subnacional en Argentina. Fundar](https://fund.ar/)
 
@@ -63,6 +63,10 @@ Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (202
     - [Tucumán](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datasets_fichas/Ficha_Tucumán.csv)
     
 - [Datos Socioeconómicos](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/datos_socioeconomicos.csv)
+
+## Otros trabajos relacionados
+
+Este trabajo se enmarca en la serie de [Complejidad Económica](https://fund.ar/serie/complejidad-economica/), una línea de investigación y aplicación llevada a cabo por las áreas de Datos y Política Productiva de Fundar. Esta serie reúne, por un lado, un conjunto de trabajos de aplicación regional en la ciudad y la provincia de Córdoba que analizan las potencialidades productivas de estos dos distritos. Reúne además un estudio nacional que se apoya en evidencia cuantitativa para determinar en qué áreas Argentina tiene potencial competitivo verde. Los cálculos de este último trabajo se encuentran disponibles [acá](https://github.com/datos-Fundar/complejidad-economica). Por último, se suma también una guía práctica para analizar la complejidad económica de una provincia utilizando datos de empleo, con su [repositorio](https://github.com/datos-Fundar/complejidad_economica_empleo) también disponible.
 
 
 <div>&nbsp;</div>

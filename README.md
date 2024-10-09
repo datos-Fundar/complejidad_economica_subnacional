@@ -4,10 +4,13 @@
 
 En este repositorio se comparten los datos que se han utilizado para el **Radiografía de la Complejidad Económica subnacional en Argentina** [^1].Contiene las bases de datos que se han utilizado para la construcción de las fichas provinciales de Complejidad Económica. 
 
-Las bases presentan indicadores de Complejidad Económica de elaboración propia a partir de datos de la Dirección Nacional de Estudios para la Producción [(CEP XXI)](https://www.argentina.gob.ar/produccion/cep) y [Comtrade](https://comtradeplus.un.org/), a los cuales se accedió a través de una consulta de información pública. Además, se utilizaron otras fuentes de datos para complementar a estos indicadores, aportando datos socioeconómicos provinciales como información poblacional, económica, de empleo y educativa. Las fuentes de estos datos son el [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/), el [Ministerio de Economía de la Nación](https://www.argentina.gob.ar/economia), el [Observatorio de Empleo y Dinámica Empresarial (OEDE)](https://www.argentina.gob.ar/trabajo/estadisticas/observatorio-de-empleo-y-dinamica-empresarial-oede-0) y el [Ministerio de Educación](https://www.argentina.gob.ar/capital-humano/educacion) -actualmente Ministerio de Capital Humano-.
+Las bases presentan indicadores de Complejidad Económica de elaboración propia a partir de datos de la Dirección Nacional de Estudios para la Producción [(CEP XXI)](https://www.argentina.gob.ar/produccion/cep) y [Comtrade](https://comtradeplus.un.org/), a los cuales se accedió a través de una consulta de información pública. Además, se utilizaron otras fuentes de datos para complementar a estos indicadores y para analizar la situación socioeconómica de cada una de las provincias. Para ello, se utilizó información poblacional, económica, de empleo y educativa. Las fuentes de estos datos son el [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/), el [Ministerio de Economía de la Nación](https://www.argentina.gob.ar/economia), el [Observatorio de Empleo y Dinámica Empresarial (OEDE)](https://www.argentina.gob.ar/trabajo/estadisticas/observatorio-de-empleo-y-dinamica-empresarial-oede-0) y el [Ministerio de Educación](https://www.argentina.gob.ar/capital-humano/educacion) -actualmente Ministerio de Capital Humano-.
 
-[^1]: [Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G. (2024) Radiografía de la Complejidad Económica subnacional en Argentina. Fundar](https://fund.ar/)
+## ¿Qué es la Complejidad Económica?
 
+La Complejidad Económica (CE) es una herramienta metodológica para medir el grado de conocimiento productivo que acumula una economía. Nació a mediados de los 2000 como resultado de la colaboración entre el economista Ricardo Hausmann (Harvard) y el físico César Hidalgo (MIT) en su afán por generar un nuevo enfoque para medir y explicar el desarrollo productivo de los países a partir de los datos de comercio internacional (Hidalgo et al. (2007)[^2] e Hidalgo y Hausmann (2009)[^3].).
+
+Basándose en las actividades productivas pasadas y presentes de distintas economías, la CE brinda información sobre las actividades a las que estas economías podrán moverse más fácilmente en el futuro cercano y cuáles sectores requieren romper la inercia de la estructura productiva mediante la aplicación de políticas direccionadas para lograr una inserción exitosa. Para ello, la CE provee índices de clasificación de regiones y de productos, del valor que cada uno de estos aporta y de las posibilidades que tiene cada región de insertarse en mercados nuevos más o menos específicos. 
 
 
 **Cita Sugerida:**
@@ -68,6 +71,11 @@ Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (202
 
 Este trabajo se enmarca en la serie de [Complejidad Económica](https://fund.ar/serie/complejidad-economica/), una línea de investigación y aplicación llevada a cabo por las áreas de Datos y Política Productiva de Fundar. Esta serie reúne, por un lado, un conjunto de trabajos de aplicación regional en la ciudad y la provincia de Córdoba que analizan las potencialidades productivas de estos dos distritos. Reúne además un estudio nacional que se apoya en evidencia cuantitativa para determinar en qué áreas Argentina tiene potencial competitivo verde. Los cálculos de este último trabajo se encuentran disponibles [acá](https://github.com/datos-Fundar/complejidad-economica). Por último, se suma también una guía práctica para analizar la complejidad económica de una provincia utilizando datos de empleo, con su [repositorio](https://github.com/datos-Fundar/complejidad_economica_empleo) también disponible.
 
+[^1]: [Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G. (2024) Radiografía de la Complejidad Económica subnacional en Argentina. Fundar](https://fund.ar/)
+
+[^2]: [Hidalgo, C. A., Klinger, B., Barabási, A. L. y Hausmann, R. (2007). The product space conditions the development of nations. Science, 317(5837), 482-487.](https://fund.ar/](https://www.science.org/doi/10.1126/science.1144581)
+
+[^3]: [Hidalgo, C. A. y Hausmann, R. (2009). The building blocks of economic complexity. Proceedings of the National Academy of Sciences, 106(26), 10570-10575.](https://fund.ar/](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/building-blocks-economic-complexity)
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -82,3 +90,4 @@ Este trabajo se enmarca en la serie de [Complejidad Económica](https://fund.ar/
 </a>
 
 </div>
+

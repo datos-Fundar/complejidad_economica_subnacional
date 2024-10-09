@@ -8,7 +8,7 @@ Las bases presentan indicadores de Complejidad Económica de elaboración propia
 
 ## ¿Qué es la Complejidad Económica?
 
-La Complejidad Económica (CE) es una herramienta metodológica para medir el grado de conocimiento productivo que acumula una economía. Nació a mediados de los 2000 como resultado de la colaboración entre el economista Ricardo Hausmann (Harvard) y el físico César Hidalgo (MIT) en su afán por generar un nuevo enfoque para medir y explicar el desarrollo productivo de los países a partir de los datos de comercio internacional (Hidalgo et al. (2007)[^2] e Hidalgo y Hausmann (2009)[^3].).
+La Complejidad Económica (CE) es una herramienta metodológica para medir el grado de conocimiento productivo que acumula una economía. Nació a mediados de los 2000 como resultado de la colaboración entre el economista Ricardo Hausmann (Harvard) y el físico César Hidalgo (MIT) en su afán por generar un nuevo enfoque para medir y explicar el desarrollo productivo de los países a partir de los datos de comercio internacional (Hidalgo et al. (2007)[^2] e Hidalgo y Hausmann (2009)[^3]).
 
 Basándose en las actividades productivas pasadas y presentes de distintas economías, la CE brinda información sobre las actividades a las que estas economías podrán moverse más fácilmente en el futuro cercano y cuáles sectores requieren romper la inercia de la estructura productiva mediante la aplicación de políticas direccionadas para lograr una inserción exitosa. Para ello, la CE provee índices de clasificación de regiones y de productos, del valor que cada uno de estos aporta y de las posibilidades que tiene cada región de insertarse en mercados nuevos más o menos específicos. 
 
@@ -73,9 +73,9 @@ Este trabajo se enmarca en la serie de [Complejidad Económica](https://fund.ar/
 
 [^1]: [Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G. (2024) Radiografía de la Complejidad Económica subnacional en Argentina. Fundar](https://fund.ar/)
 
-[^2]: [Hidalgo, C. A., Klinger, B., Barabási, A. L. y Hausmann, R. (2007). The product space conditions the development of nations. Science, 317(5837), 482-487.](https://fund.ar/](https://www.science.org/doi/10.1126/science.1144581)
+[^2]: [Hidalgo, C. A., Klinger, B., Barabási, A. L. y Hausmann, R. (2007). The product space conditions the development of nations. Science, 317(5837), 482-487.](https://www.science.org/doi/10.1126/science.1144581)
 
-[^3]: [Hidalgo, C. A. y Hausmann, R. (2009). The building blocks of economic complexity. Proceedings of the National Academy of Sciences, 106(26), 10570-10575.](https://fund.ar/](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/building-blocks-economic-complexity)
+[^3]: [Hidalgo, C. A. y Hausmann, R. (2009). The building blocks of economic complexity. Proceedings of the National Academy of Sciences, 106(26), 10570-10575.](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/building-blocks-economic-complexity)
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>

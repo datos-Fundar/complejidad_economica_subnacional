@@ -1,10 +1,25 @@
 cff-version: 1.2.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: dataset
+date-released: "2024-10-22"
+
 title: >-
   Radiografía de la Complejidad Económica subnacional en Argentina
-message: >-
-  If you use this dataset, please cite it using the metadata
-  from this file.
-type: dataset
+
+abstract: >-
+  Este repositorio contiene las bases de datos utilizadas para el armado de la Radiografía de la Complejidad Económica subnacional.
+
+repository-code: >-
+  https://github.com/datos-Fundar/complejidad_economica_subnacional
+
+url: "https://fund.ar/dolorsitamet"
+
+identifiers:
+  - description: "Proyecto llevado a cabo por las Áreas de Datos y de Política Productiva de Fundar, en el marco de un trabajo para el Ministerio del Interior de la Nación, bajo la supervisión de Marcelo Leiras."
+    type: doi
+    value: 10.5281/zenodo.123456 
+
 authors:
   - name: Fundar
     website: 'https://fund.ar/'
@@ -27,11 +42,4 @@ authors:
     email: nsidicaro@fund.ar
   - given-names: Gabriel
     family-names: Scattolo
-    email: 
-repository-code: >-
-  https://github.com/datos-Fundar/complejidad_economica_subnacional
-abstract: >-
-  Este repositorio contiene las bases de datos utilizadas para el armado de la Radiografía de la Complejidad Económica subnacional.
-license: CC-BY-NC-ND-4.0
-version: '1.0'
-date-released: '2024-10-22'
+    email:    

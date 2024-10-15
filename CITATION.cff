@@ -21,25 +21,21 @@ identifiers:
     value: 10.5281/zenodo.123456 
 
 authors:
-  - name: Fundar
-    website: 'https://fund.ar/'
-    country: AR
-    city: Buenos Aires
-  - given-names: Marcos
-    family-names: Feole
-    email: 
-  - given-names: Matías
-    family-names: Gutman
-    email: mgutman@fund.ar
-  - given-names: Paula
-    family-names: Luvini
-    email: pluvini@fund.ar
-  - given-names: Lucía
-    family-names: Pezzarini
-    email: 
-  - given-names: Nicolás
-    family-names: Sidicaro
-    email: nsidicaro@fund.ar
-  - given-names: Gabriel
-    family-names: Scattolo
-    email:    
+  - given-names: "Marcos"
+    family-names: "Feole"
+    affiliation: "Fundar" 
+  - given-names: "Matías"
+    family-names: "Gutman"
+    affiliation: "Fundar"
+  - given-names: "Paula"
+    family-names: "Luvini"
+    affiliation: "Fundar"
+  - given-names: "Lucía"
+    family-names: "Pezzarini"
+    affiliation: "Fundar" 
+  - given-names: "Nicolás"
+    family-names: "Sidicaro"
+    affiliation: "Fundar"
+  - given-names: "Gabriel"
+    family-names: "Scattolo"
+    affiliation: "Fundar"   

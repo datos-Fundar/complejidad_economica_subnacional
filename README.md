@@ -1,6 +1,6 @@
 # Radiografía de la Complejidad Económica subnacional en Argentina
 
-<!-- [![Radiografía de la Complejidad Económica subnacional](https://fund.ar/wp-content/uploads/2024/05/Portada_web_Mapa-CIAS.png)](https://fund.ar/publicacion/mapa-politicas-sociales-2023/) -->
+[![Radiografía de la Complejidad Económica subnacional](https://github.com/user-attachments/assets/3d5ad3dd-71bc-4007-aa21-f31bfe2255cb)](https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/)
 
 En este repositorio se comparten los datos que se han utilizado para el **Radiografía de la Complejidad Económica subnacional en Argentina** [^1].Contiene las bases de datos que se han utilizado para la construcción de las fichas provinciales de Complejidad Económica. 
 

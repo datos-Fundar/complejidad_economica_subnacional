@@ -1,11 +1,12 @@
-# Radiografía de la Complejidad Económica subnacional en Argentina
+# Mapa de oportunidades productivas: Complejidad Económica en las provincias
+
 
 
 [![Fundar22_Ilus-Complejidades_web_2](https://github.com/user-attachments/assets/8fa06f60-2add-4a9b-970c-72f91a1e8256)](https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13947848.svg)](https://doi.org/10.5281/zenodo.13947848)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-En este repositorio se comparten los datos que se han utilizado para el **Radiografía de la Complejidad Económica subnacional en Argentina** [^1].Contiene las bases de datos que se han utilizado para la construcción de las fichas provinciales de Complejidad Económica. 
+En este repositorio se comparten los datos que se han utilizado para el **Mapa de oportunidades productivas** [^1].Contiene las bases de datos que se han utilizado para la construcción de las fichas provinciales de Complejidad Económica. 
 
 Las bases presentan indicadores de Complejidad Económica de elaboración propia a partir de datos de la Dirección Nacional de Estudios para la Producción [(CEP XXI)](https://www.argentina.gob.ar/produccion/cep) y [Comtrade](https://comtradeplus.un.org/), a los cuales se accedió a través de una consulta de información pública. Además, se utilizaron otras fuentes de datos para complementar a estos indicadores y para analizar la situación socioeconómica de cada una de las provincias. Para ello, se utilizó información poblacional, económica, de empleo y educativa. Las fuentes de estos datos son el [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/), el [Ministerio de Economía de la Nación](https://www.argentina.gob.ar/economia), el [Observatorio de Empleo y Dinámica Empresarial (OEDE)](https://www.argentina.gob.ar/trabajo/estadisticas/observatorio-de-empleo-y-dinamica-empresarial-oede-0) y el [Ministerio de Educación](https://www.argentina.gob.ar/capital-humano/educacion) -actualmente Ministerio de Capital Humano-.
 
@@ -18,7 +19,7 @@ Basándose en las actividades productivas pasadas y presentes de distintas econo
 
 **Cita Sugerida:**
 ```
-Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (2024). Radiografía de la Complejidad Económica subnacional en Argentina. Fundar.
+Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (2024). Mapa de oportunidades productivas: Complejidad Económica en las provincias. Fundar.
 ```
 
 
@@ -27,7 +28,7 @@ Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (202
 ```bibtex
 @report{complejidadfichas,
   author    = {Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G},
-  title     = {Radiografía de la Complejidad Económica subnacional en Argentina},
+  title     = {Mapa de oportunidades productivas: Complejidad Económica en las provincias},
   year      = {2024},
   institution = {Fundar},
   type      = {Document}
@@ -81,7 +82,7 @@ El libro de códigos contiene la documentación de estas bases de datos con una 
 
 Este trabajo se enmarca en la serie de [Complejidad Económica](https://fund.ar/serie/complejidad-economica/), una línea de investigación y aplicación llevada a cabo por las áreas de Datos y Política Productiva de Fundar. Esta serie reúne, por un lado, un conjunto de trabajos de aplicación regional en la ciudad y la provincia de Córdoba que analizan las potencialidades productivas de estos dos distritos. Reúne además un estudio nacional que se apoya en evidencia cuantitativa para determinar en qué áreas Argentina tiene potencial competitivo verde. Los cálculos de este último trabajo se encuentran disponibles [acá](https://github.com/datos-Fundar/complejidad-economica). Por último, se suma también una guía práctica para analizar la complejidad económica de una provincia utilizando datos de empleo, con su [repositorio](https://github.com/datos-Fundar/complejidad_economica_empleo) también disponible.
 
-[^1]: [Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G. (2024) Radiografía de la Complejidad Económica subnacional en Argentina. Fundar](https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/)
+[^1]: [Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G. (2024) Mapa de oportunidades productivas: Complejidad Económica en las provincias. Fundar](https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/)
 
 [^2]: [Hidalgo, C. A., Klinger, B., Barabási, A. L. y Hausmann, R. (2007). The product space conditions the development of nations. Science, 317(5837), 482-487.](https://www.science.org/doi/10.1126/science.1144581)
 

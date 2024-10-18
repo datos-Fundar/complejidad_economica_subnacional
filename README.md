@@ -1,6 +1,7 @@
 # Radiografía de la Complejidad Económica subnacional en Argentina
 
-[![Radiografía de la Complejidad Económica subnacional](https://github.com/user-attachments/assets/3d5ad3dd-71bc-4007-aa21-f31bfe2255cb)](https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/)
+
+[![Fundar22_Ilus-Complejidades_web_2](https://github.com/user-attachments/assets/8fa06f60-2add-4a9b-970c-72f91a1e8256)](https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13947848.svg)](https://doi.org/10.5281/zenodo.13947848)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 

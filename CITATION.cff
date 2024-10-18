@@ -5,7 +5,7 @@ type: dataset
 date-released: "2024-10-22"
 
 title: >-
-  Radiografía de la Complejidad Económica subnacional en Argentina
+  Mapa de oportunidades productivas: Complejidad Económica en las provincias
 
 abstract: >-
   Este repositorio contiene las bases de datos utilizadas para el armado de la Radiografía de la Complejidad Económica subnacional.
@@ -13,7 +13,7 @@ abstract: >-
 repository-code: >-
   https://github.com/datos-Fundar/complejidad_economica_subnacional
 
-url: "https://fund.ar/dolorsitamet"
+url: "https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/"
 
 identifiers:
   - description: "Proyecto llevado a cabo por las Áreas de Datos y de Política Productiva de Fundar, en el marco de un trabajo para el Ministerio del Interior de la Nación, bajo la supervisión de Marcelo Leiras."

@@ -3,7 +3,7 @@
 
 
 [![Fundar22_Ilus-Complejidades_web_2](https://github.com/user-attachments/assets/8fa06f60-2add-4a9b-970c-72f91a1e8256)](https://fund.ar/publicacion/mapa-de-oportunidades-productivas-complejidad-economica-en-las-provincias/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13947848.svg)](https://doi.org/10.5281/zenodo.13947848)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13951527.svg)](https://doi.org/10.5281/zenodo.13951527)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 En este repositorio se comparten los datos que se han utilizado para el **Mapa de oportunidades productivas** [^1].Contiene las bases de datos que se han utilizado para la construcción de las fichas provinciales de Complejidad Económica. 

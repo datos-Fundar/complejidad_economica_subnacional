@@ -41,7 +41,7 @@ Feole, M.; Gutman, M.; Luvini, P.; Pezzarini, L.; Sidicaro, N.; Scattolo, G (202
 
 ## Índice de archivos
 
-- [Libro de códigos]([https://github.com/datos-Fundar/complejidad_economica_subnacional](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/libro_de_codigo.pdf)
+- [Libro de códigos](https://github.com/datos-Fundar/complejidad_economica_subnacional/blob/main/libro_de_codigo.pdf)
 
 - [Carpeta con bases de fichas provinciales](https://github.com/datos-Fundar/complejidad_economica_subnacional)
     
